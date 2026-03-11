@@ -3,7 +3,9 @@
 <!-- <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=230&section=header&text=Ivy%20Lynn&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p> -->
-
+<p align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZyZTBxeTNucHNhZnk2bTBobnp5NnFhdW1xdHljc3Q2MXEwMjMyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+</p>
 <!-- Animated typing header -->
 
 <p align="center">
