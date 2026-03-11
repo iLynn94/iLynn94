@@ -3,6 +3,7 @@
 <!-- <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=230&section=header&text=Ivy%20Lynn&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p> -->
+
 <p align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZyZTBxeTNucHNhZnk2bTBobnp5NnFhdW1xdHljc3Q2MXEwMjMyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 </p>
@@ -60,8 +61,11 @@ I enjoy creating systems that are both **technically solid and visually clean.**
 ![Java](https://img.shields.io/badge/Java-orange?style=flat\&logo=openjdk)
 ![C](https://img.shields.io/badge/C-blue?style=flat\&logo=c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat\&logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-purple?style=flat\&logo=php)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat\&logo=css3)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey)
-
 ---
 
 ## 🌐 Frameworks & Libraries
