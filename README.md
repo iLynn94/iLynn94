@@ -59,7 +59,6 @@ I enjoy creating systems that are both **technically solid and visually clean.**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat\&logo=openjdk)
 ![C](https://img.shields.io/badge/C-blue?style=flat\&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=flat\&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat\&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey)
 
