@@ -37,7 +37,7 @@ I like building projects where **data, logic, and clean design meet.**
 
 ---
 
-# 🎨 Development & Design Aesthetic
+# 🎨 Development 
 
 My approach to development focuses on:
 
